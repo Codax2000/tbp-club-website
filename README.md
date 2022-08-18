@@ -63,6 +63,7 @@ Officer and advisor about and contact information
 ## Other notes
  - Place member pictures in the `src/img/mugshots` directory, named with the member's name, like `Last_First_Middle.jpg` if we need a script of some sort.
  - Place pictures from the creative commons, if used, in the `src/img/cc-images` directory
+ - Please check `bootstrap` or `React-Bootstrap` for styling before adding a style to `index.css`.
  - Please document classes in `index.css` and describe their use (not their behavior).
  - Going forward, please document each react component with your name, date last modified, and a brief description of what the component does. Also, please describe all the props used for that component (The props in `templates` are not commented, apologies). You can copy and paste the following:
   ```
