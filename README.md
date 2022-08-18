@@ -59,3 +59,18 @@ Embedded Google Calendar with club schedule (TBD)
 ### About Us
 About TBP
 Officer and advisor about and contact information
+
+## Other notes
+ - the `src/components/legacy_components` directory has several components that are from a different website from which this repo was copied. They are good examples of React components for reference.
+ - Place member pictures in the `src/img/mugshots` directory, named with the member's name, like `Last_First_Middle.jpg` if we need a script of some sort.
+ - Place pictures from the creative commons, if used, in the `src/img/cc-images` directory
+ - Please document classes in `index.css` and describe their use (not their behavior).
+ - Going forward, please document each react component with your name, date last modified, and a brief description of what the component does. Also, please describe all the props used for that component (The props in `templates` are not commented, apologies). You can copy and paste the following:
+  ```
+[First Last]
+[Date of Modification]
+
+[Description of component]
+[Prop 1]: {[type]} description
+[Prop 2]: {[type]} description
+  ```
