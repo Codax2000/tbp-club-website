@@ -7,10 +7,9 @@
  */
 
 import React from "react";
-import { Route, Switch } from "react-router-dom";
+// import { Route, Switch } from "react-router-dom";
 import NavMenu from "./components/NavMenu";
 import Footer from "./components/Footer";
-import HomePage from "./components/main/HomePage";
 
 function App() {
   return (

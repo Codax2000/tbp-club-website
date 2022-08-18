@@ -29,7 +29,8 @@ the packages that this repository requires. Once that finishes running, run
 
 There are a number of other NPM commands that will be necessary when developing:
 ```{java}
-npm start  // start a live-updating, local version of the website
+npm start       // start a live-updating, local version of the website
+npm run build   // create a production build in a folder you can export
 npm run deploy  // build website and deploy to gh-pages branch
 ```
 
