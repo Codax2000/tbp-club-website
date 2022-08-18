@@ -61,7 +61,6 @@ About TBP
 Officer and advisor about and contact information
 
 ## Other notes
- - the `src/components/legacy_components` directory has several components that are from a different website from which this repo was copied. They are good examples of React components for reference.
  - Place member pictures in the `src/img/mugshots` directory, named with the member's name, like `Last_First_Middle.jpg` if we need a script of some sort.
  - Place pictures from the creative commons, if used, in the `src/img/cc-images` directory
  - Please document classes in `index.css` and describe their use (not their behavior).
