@@ -1,53 +1,60 @@
-# My Personal Website
+# Tau Beta Pi Club Website
 
-This repo is an online version of my resume and
-an exposition of various projects I've done. This includes engineering,
-research, and software development. This is also hosted on GitHub pages, under
-[this link](http://codax2000.github.io/personal-website).
+This is the repository for the club website for the Washington Alpha chaphter of Tau Beta Pi, an
+engineering honors society at the University of Washington. This README documents
+the goals of this repository and how to run and deploy the repository to the webpage.
+
 
 ## About
 
-This is the frontend only, built with React, D3, and Bootstrap. Part of it
-uses an API that I wrote for fetching earthquake data, which is written in
-Spring Boot and hosted on Microsoft Azure. The API is part of a separate repo
-for ease of deployment, and is at [this link](https://github.com/Codax2000/usgs-earthquake-feed).
+This website is composed of frontend only, build with React and React router for the illusion of
+multi-page content. The gh-pages branch is deployed to the website link, at [TODO insert link]
 
-## Deployment
+## Installation Requirements
 
-All that is necessary to deploy this site is to run `npm run deploy` in the
-command line, and the website files will be deployed to the `gh-pages` branch
-of this repo. After this, changes should always be pushed to the `master` branch
-to save the updates.
+To develop this website, you must have npm installed. If you don't have it installed, the installation
+guide provided by the [UW CSE Department](https://courses.cs.washington.edu/courses/cse154/22sp/resources/setup.html) is excellent. This guide also assumes you have Git installed, or some way to use Git like
+GitHub desktop.
 
-## Projects
+To get started, clone this repository and install required packages using the following commands:
+```
+git clone git@github.com:Codax2000/tbp-club-website.git
+cd tbp-club-website
+npm install
+```
+The first line clones the repository into whatever is the current folder. Then, `npm install` installs
+the packages that this repository requires. Once that finishes running, run
 
-Here is a short list of the projects that I've worked on - this is only
-a supplement to what is on the website, which is based on results.
+## Other NPM Commands
 
-### Avionics
+There are a number of other NPM commands that will be necessary when developing:
+```{java}
+npm start  // start a live-updating, local version of the website
+npm run deploy  // build website and deploy to gh-pages branch
+```
 
-This was a project I did with a partner in Arduino, which uses a condensed
-version of C++.
+## Design Overview
 
-### Gun Violence Research
+The plan of the website is something like the following, though specifics will be tracked in GitHub
+via the issues and projects tabs of the repository.
 
-I did this project with a partner in Python, in an introductory class in
-data programming. It was done initially with Seaborn and Pandas,
-although I went through after the class was over and redid it in Altair, which
-looks much nicer on the web, as it is vector-based.
+There are several subpages with various different bits of information about the club.
 
-### EarthquakeWatch
+### Home
+Several sections:
+ - announcements, updated weekly
+ - member shout-out, updated weekly
+ - upcoming events
+ - short blurb about TBP
+ - inspirational quote
 
-This was a project where I wanted to learn Maven, Spring Boot, React.js, and
-D3.js. Getting D3.js to work with React was incredibly difficult to
-troubleshoot, as it doesn't seem to be a common approach. I finally found a
-talk on Youtube that explained how to use hooks well enough with D3 to let me
-make the visualization that I wanted to.
+### Contact Us
+Club email link
+Instagram (TBD)
 
-### UW CADathon
+### Calendar
+Embedded Google Calendar with club schedule (TBD)
 
-This was a project that I did with a partner for fun, competing for a week in
-a 3D modeling competition. We used SolidWorks, since we were both familiar with
-it and it was easy to access via remote desktop at UW. The victory was
-incredibly satisfying, since we beat graduate students and mechanical engineering
-students, even though we were freshmen and I was more of an electrical person.
+### About Us
+About TBP
+Officer and advisor about and contact information

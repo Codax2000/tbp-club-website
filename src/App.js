@@ -11,22 +11,16 @@ import { Route, Switch } from "react-router-dom";
 import NavMenu from "./components/NavMenu";
 import Footer from "./components/Footer";
 import HomePage from "./components/main/HomePage";
-import AvionicsReport from "./components/avionics/AvionicsReport";
-import CadathonReport from "./components/cadathon/CadathonReport";
-import GunResearchReport from "./components/guns/GunResearchReport";
-import EarthquakeWatch from "./components/earthquakes/components/EarthquakeWatch";
 
 function App() {
   return (
     <div className="App">
       <NavMenu />
-      <Switch>
+      {/* <Switch>
         <Route path="/" exact component={HomePage} />
-        <Route path="/controls" exact component={AvionicsReport} />
-        <Route path="/earthquakewatch" exact component={EarthquakeWatch} />
-        <Route path="/cadd" exact component={CadathonReport} />
-        <Route path="/guns" exact component={GunResearchReport} />
-      </Switch>
+        <Route path="/calendar" exact component={Calendar} />
+        <Route path="/about" exact component={About} />
+      </Switch> */}
       <Footer />
     </div>
   );
