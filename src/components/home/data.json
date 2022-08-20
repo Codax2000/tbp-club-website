@@ -1,0 +1,18 @@
+{
+    "welcome": [
+        "Welcome to Tau Beta Pi!", 
+        "Lorem ipsum dolor sic amet"
+    ],
+    "announcements": [
+        "This week's events are...",
+        "Always insert time and place too"
+    ],
+    "shoutout": {
+        "name": "First Middle Last",
+        "about": [
+            "Cool stuff 1", 
+            "this is what this student has done", 
+            "insert a new thing for each line"
+        ]
+    }
+}
