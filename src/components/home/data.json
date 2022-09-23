@@ -1,19 +1,25 @@
 {
     "welcome": [
-        "Welcome to Tau Beta Pi!", 
-        "Lorem ipsum dolor sic amet"
+        "TAU BETA PI", 
+        "WASHINGTON ALPHA"
     ],
-    "announcements": [
-        "Doing a thing at 6 PM",
-        "PI day thing",
-        "Colloquium speaker @ this week's club: Tai Chen"
-    ],
+    "announcements": {
+        "important": [
+            "There will be a general meeting on Wednesday, September 28, starting at 6:00 PM PST. The stated goal will be to schedule a time during the week that everybody can meet via a When2Meet. This shouldn't take longer than 15 minutes at most, but please make yourselves available so we can touch base as the quarter starts.",
+            "We will also touch on upcoming events and what we will hope the quarter will look like going forward.",
+            "Meeting ID: 270 365 5875"
+        ],
+        "regular": [
+            "Madison (Our VP) will be going to the District Convention in Knoxville, TN. Our best wishes for a successful trip!",
+            "We will be looking to start networking with professors, other clubs, or alumni. Ideally, we would like to have speakers come in and talk about what they do. More information will come as available.",
+            "Induction is upcoming, and it would be fantastic to have senior members be there to welcome new ones. More information will come as available."
+        ]
+    },
     "shoutout": {
-        "name": "First Middle Last",
+        "name": "Margot Adam",
         "about": [
-            "Cool stuff 1", 
-            "this is what this student has done", 
-            "insert a new thing for each line"
+            "Margot is a senior studying Electrical Engineering, focusing on Renewable Power Systems. She just finished up an internship with ERCOT in Texas over the summer, and previously worked at a Naval Laboratory.",
+            "Margot was the Vice President of Tau Beta Pi during the 2021-2022 school year and will be one of our senior club members this fall."
         ]
     }
 }
