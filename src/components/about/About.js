@@ -6,11 +6,24 @@
  */
 
 import React from 'react'
+import OfficerAbout from './OfficerAbout';
+import data from "./data.json";
+import { Container } from 'react-bootstrap';
+import president from "../../img/mugshots/Knowlton_Alex.JPG";
 
 export default function About() {
   return (
-    <div>
-        About
-    </div>
+    <Container>
+      {data.officers.slice(0, 1).map((item, i) => 
+        <OfficerAbout 
+          position={item.position}
+          name={item.name}
+          year={item.year}
+          major={item.major}
+          photo={president}
+          elevatorPitch={item.elevatorPitch}
+        />)
+      }
+    </Container>
   )
 }

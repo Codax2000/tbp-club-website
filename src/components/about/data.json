@@ -1,0 +1,60 @@
+{
+    "about": [
+        "What we are:",
+        "What we do:",
+        "What we want to be",
+        "What we want to do...blah blah blah"
+    ],
+    "officers": [
+        {
+            "name": "S:LDKFJ",
+            "year": "as;ldkfja",
+            "major": "a;slkdjf",
+            "elevator-pitch": [
+                "thing 1",
+                "thing 2"
+            ],
+            "position": "President"
+        },
+        {
+            "name": "S:LDKFJ",
+            "year": "as;ldkfja",
+            "major": "a;slkdjf",
+            "elevator-pitch": [
+                "thing 1",
+                "thing 2"
+            ],
+            "position": "Vice President"
+        },
+        {
+            "name": "S:LDKFJ",
+            "year": "as;ldkfja",
+            "major": "a;slkdjf",
+            "elevator-pitch": [
+                "thing 1",
+                "thing 2"
+            ],
+            "position": "Treasurer"
+        },
+        {
+            "name": "S:LDKFJ",
+            "year": "as;ldkfja",
+            "major": "a;slkdjf",
+            "elevator-pitch": [
+                "thing 1",
+                "thing 2"
+            ],
+            "position": "Recording Secretary"
+        },
+        {
+            "name": "S:LDKFJ",
+            "year": "as;ldkfja",
+            "major": "a;slkdjf",
+            "elevator-pitch": [
+                "thing 1",
+                "thing 2"
+            ],
+            "position": "Corresponding Secretary"
+        }
+    ]
+}

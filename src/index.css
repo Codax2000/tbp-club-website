@@ -3,3 +3,12 @@
   margin: 0;
 }
 
+/* Style generic containers we use for general callouts, to keep formatting consistent */
+
+.home-container {
+  margin: 5em 0 2em 0
+}
+
+.home-container.img {
+  height: 5rem;
+}

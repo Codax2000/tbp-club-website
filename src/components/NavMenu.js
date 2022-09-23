@@ -17,7 +17,8 @@ export default function NavMenu() {
         <Nav className="mr-auto">
           <Nav.Link href="#/">Home</Nav.Link>
           <Nav.Link href="#/calendar">Calendar</Nav.Link>
-          <Nav.Link href="#/about">About Us</Nav.Link>
+          {/* Uncomment when About Us page has been contented and styled */}
+          {/* <Nav.Link href="#/about">About Us</Nav.Link> */}
           <Nav.Link href="mailto:tbp@uw.edu">Contact Us</Nav.Link>
         </Nav>
       </Navbar.Collapse>
