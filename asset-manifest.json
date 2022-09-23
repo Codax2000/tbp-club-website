@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.436e6dad.chunk.css",
-    "main.js": "/personal-website/static/js/main.24a43a4f.chunk.js",
-    "main.js.map": "/personal-website/static/js/main.24a43a4f.chunk.js.map",
-    "runtime-main.js": "/personal-website/static/js/runtime-main.8427405a.js",
-    "runtime-main.js.map": "/personal-website/static/js/runtime-main.8427405a.js.map",
-    "static/js/2.9124b9bb.chunk.js": "/personal-website/static/js/2.9124b9bb.chunk.js",
-    "static/js/2.9124b9bb.chunk.js.map": "/personal-website/static/js/2.9124b9bb.chunk.js.map",
-    "index.html": "/personal-website/index.html",
-    "static/css/main.436e6dad.chunk.css.map": "/personal-website/static/css/main.436e6dad.chunk.css.map",
-    "static/js/2.9124b9bb.chunk.js.LICENSE.txt": "/personal-website/static/js/2.9124b9bb.chunk.js.LICENSE.txt",
-    "static/media/Adam_Margot.9eb01537.JPG": "/personal-website/static/media/Adam_Margot.9eb01537.JPG",
-    "static/media/Knowlton_Alex.beb225d9.JPG": "/personal-website/static/media/Knowlton_Alex.beb225d9.JPG"
+    "main.css": "/tbp-club-website/static/css/main.436e6dad.chunk.css",
+    "main.js": "/tbp-club-website/static/js/main.0dd7f5b9.chunk.js",
+    "main.js.map": "/tbp-club-website/static/js/main.0dd7f5b9.chunk.js.map",
+    "runtime-main.js": "/tbp-club-website/static/js/runtime-main.1003cc00.js",
+    "runtime-main.js.map": "/tbp-club-website/static/js/runtime-main.1003cc00.js.map",
+    "static/js/2.970394a7.chunk.js": "/tbp-club-website/static/js/2.970394a7.chunk.js",
+    "static/js/2.970394a7.chunk.js.map": "/tbp-club-website/static/js/2.970394a7.chunk.js.map",
+    "index.html": "/tbp-club-website/index.html",
+    "static/css/main.436e6dad.chunk.css.map": "/tbp-club-website/static/css/main.436e6dad.chunk.css.map",
+    "static/js/2.970394a7.chunk.js.LICENSE.txt": "/tbp-club-website/static/js/2.970394a7.chunk.js.LICENSE.txt",
+    "static/media/Adam_Margot.9eb01537.JPG": "/tbp-club-website/static/media/Adam_Margot.9eb01537.JPG",
+    "static/media/Knowlton_Alex.beb225d9.JPG": "/tbp-club-website/static/media/Knowlton_Alex.beb225d9.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.8427405a.js",
-    "static/js/2.9124b9bb.chunk.js",
+    "static/js/runtime-main.1003cc00.js",
+    "static/js/2.970394a7.chunk.js",
     "static/css/main.436e6dad.chunk.css",
-    "static/js/main.24a43a4f.chunk.js"
+    "static/js/main.0dd7f5b9.chunk.js"
   ]
 }
