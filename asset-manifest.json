@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tbp-club-website/static/css/main.efe3c224.chunk.css",
-    "main.js": "/tbp-club-website/static/js/main.fba69a13.chunk.js",
-    "main.js.map": "/tbp-club-website/static/js/main.fba69a13.chunk.js.map",
+    "main.js": "/tbp-club-website/static/js/main.55c7a17a.chunk.js",
+    "main.js.map": "/tbp-club-website/static/js/main.55c7a17a.chunk.js.map",
     "runtime-main.js": "/tbp-club-website/static/js/runtime-main.1003cc00.js",
     "runtime-main.js.map": "/tbp-club-website/static/js/runtime-main.1003cc00.js.map",
     "static/js/2.d8d63513.chunk.js": "/tbp-club-website/static/js/2.d8d63513.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.1003cc00.js",
     "static/js/2.d8d63513.chunk.js",
     "static/css/main.efe3c224.chunk.css",
-    "static/js/main.fba69a13.chunk.js"
+    "static/js/main.55c7a17a.chunk.js"
   ]
 }
