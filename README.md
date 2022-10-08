@@ -8,7 +8,7 @@ the goals of this repository and how to run and deploy the repository to the web
 ## About
 
 This website is composed of frontend only, build with React and React router for the illusion of
-multi-page content. The gh-pages branch is deployed to the website link, at [TODO insert link]
+multi-page content. The gh-pages branch is deployed to the website link, at [GitHub Pages](https://codax2000.github.io/tbp-club-website/#/)
 
 ## Installation Requirements
 

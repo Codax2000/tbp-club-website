@@ -20,7 +20,7 @@ export default function HomePage() {
         {data.announcements.important.map((item, i) => <p className="bold" key={i}>{item}</p>)}
         {data.announcements.regular.map((item, i) => <p key={i}>{item}</p>)}
       </Container>
-      <Container className="background-secondary home-container-vertical home-container horizontal">
+      {/* <Container className="background-secondary home-container-vertical home-container horizontal">
         <h2>Weekly Shoutout</h2>
         <div className="d-flex align-items-start">
           <div>
@@ -31,7 +31,7 @@ export default function HomePage() {
             {data.shoutout.about.map((item, i) => <p key={i}>{item}</p>)}
           </div>
         </div>
-      </Container>
+      </Container> */}
       <Container className="background-secondary home-container-vertical home-container horizontal">
         <h2>Connect With Us!</h2>
         <p>Email: <a href="tbp@uw.edu">tbp@uw.edu</a></p>
