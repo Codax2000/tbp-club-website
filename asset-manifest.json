@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/tbp-club-website/static/css/main.436e6dad.chunk.css",
-    "main.js": "/tbp-club-website/static/js/main.0dd7f5b9.chunk.js",
-    "main.js.map": "/tbp-club-website/static/js/main.0dd7f5b9.chunk.js.map",
+    "main.css": "/tbp-club-website/static/css/main.16b34fdd.chunk.css",
+    "main.js": "/tbp-club-website/static/js/main.34049d14.chunk.js",
+    "main.js.map": "/tbp-club-website/static/js/main.34049d14.chunk.js.map",
     "runtime-main.js": "/tbp-club-website/static/js/runtime-main.1003cc00.js",
     "runtime-main.js.map": "/tbp-club-website/static/js/runtime-main.1003cc00.js.map",
-    "static/js/2.970394a7.chunk.js": "/tbp-club-website/static/js/2.970394a7.chunk.js",
-    "static/js/2.970394a7.chunk.js.map": "/tbp-club-website/static/js/2.970394a7.chunk.js.map",
+    "static/js/2.d8d63513.chunk.js": "/tbp-club-website/static/js/2.d8d63513.chunk.js",
+    "static/js/2.d8d63513.chunk.js.map": "/tbp-club-website/static/js/2.d8d63513.chunk.js.map",
     "index.html": "/tbp-club-website/index.html",
-    "static/css/main.436e6dad.chunk.css.map": "/tbp-club-website/static/css/main.436e6dad.chunk.css.map",
-    "static/js/2.970394a7.chunk.js.LICENSE.txt": "/tbp-club-website/static/js/2.970394a7.chunk.js.LICENSE.txt",
+    "static/css/main.16b34fdd.chunk.css.map": "/tbp-club-website/static/css/main.16b34fdd.chunk.css.map",
+    "static/js/2.d8d63513.chunk.js.LICENSE.txt": "/tbp-club-website/static/js/2.d8d63513.chunk.js.LICENSE.txt",
     "static/media/Adam_Margot.9eb01537.JPG": "/tbp-club-website/static/media/Adam_Margot.9eb01537.JPG",
-    "static/media/Knowlton_Alex.beb225d9.JPG": "/tbp-club-website/static/media/Knowlton_Alex.beb225d9.JPG"
+    "static/media/Deruyter_Nathan.e3403061.JPG": "/tbp-club-website/static/media/Deruyter_Nathan.e3403061.JPG",
+    "static/media/Knowlton_Alex.a28899f9.JPG": "/tbp-club-website/static/media/Knowlton_Alex.a28899f9.JPG",
+    "static/media/Kwek_Kai.e2e1a593.JPG": "/tbp-club-website/static/media/Kwek_Kai.e2e1a593.JPG",
+    "static/media/Walenta_Madison.f0fd6214.JPG": "/tbp-club-website/static/media/Walenta_Madison.f0fd6214.JPG",
+    "static/media/Zhou_Steven.b12dd95f.jpg": "/tbp-club-website/static/media/Zhou_Steven.b12dd95f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1003cc00.js",
-    "static/js/2.970394a7.chunk.js",
-    "static/css/main.436e6dad.chunk.css",
-    "static/js/main.0dd7f5b9.chunk.js"
+    "static/js/2.d8d63513.chunk.js",
+    "static/css/main.16b34fdd.chunk.css",
+    "static/js/main.34049d14.chunk.js"
   ]
 }
