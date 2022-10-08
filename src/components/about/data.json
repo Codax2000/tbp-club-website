@@ -1,25 +1,20 @@
 {
-    "about": [
-        "What we are:",
-        "What we do:",
-        "What we want to be",
-        "What we want to do...blah blah blah"
-    ],
+    "about": "Tau Beta Pi is a national engineering honors society founded in 1885, the oldest engineering honors society in the United States. It applies to all of engineering, regardless of discipline. At Washington Alpha, we stand for integrity and excellence in engineering, both professionally and in our daily lives. This year, we're holding college-wide events, building community, and helping our members network. The goal is to build a positive presence within the college and to help our members in whatever ways we can.",
     "officers": [
         {
-            "name": "S:LDKFJ",
-            "year": "as;ldkfja",
-            "major": "a;slkdjf",
+            "name": "Alexander Knowlton",
+            "year": "Senior",
+            "major": "Electrical Engineering",
             "elevator-pitch": [
-                "thing 1",
-                "thing 2"
+                "It's my pleasure to be this year's president of Washington Alpha. I've taught classes in Computer Science, worked on the electrical systems of planes of all sizes, and am hoping to design integrated circuits in both analog and mixed-signal settings.",
+                "In my spare time, I enjoy hiking, fishing, Jiu-Jitsu, and cooking. My hardest hike was in Colorado, and we summited Mt. Bierstadt. It was tough, but the view was worth it."
             ],
             "position": "President"
         },
         {
-            "name": "S:LDKFJ",
-            "year": "as;ldkfja",
-            "major": "a;slkdjf",
+            "name": "Madison Walenta",
+            "year": "Senior",
+            "major": "Bioengineering",
             "elevator-pitch": [
                 "thing 1",
                 "thing 2"
@@ -27,9 +22,9 @@
             "position": "Vice President"
         },
         {
-            "name": "S:LDKFJ",
-            "year": "as;ldkfja",
-            "major": "a;slkdjf",
+            "name": "Yong-Kai Kwek",
+            "year": "Sophomore",
+            "major": "Mechanical Engineering",
             "elevator-pitch": [
                 "thing 1",
                 "thing 2"
@@ -37,9 +32,9 @@
             "position": "Treasurer"
         },
         {
-            "name": "S:LDKFJ",
-            "year": "as;ldkfja",
-            "major": "a;slkdjf",
+            "name": "Nathan DeRuyter",
+            "year": "Junior",
+            "major": "Mechanical Engineering",
             "elevator-pitch": [
                 "thing 1",
                 "thing 2"
@@ -47,9 +42,9 @@
             "position": "Recording Secretary"
         },
         {
-            "name": "S:LDKFJ",
-            "year": "as;ldkfja",
-            "major": "a;slkdjf",
+            "name": "Steven Zhou-Wright",
+            "year": "Second Year Master's",
+            "major": "Electrical Engineering",
             "elevator-pitch": [
                 "thing 1",
                 "thing 2"
