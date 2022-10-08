@@ -24,7 +24,7 @@ export default function HomePage() {
         <h2>Weekly Shoutout</h2>
         <div className="d-flex align-items-start">
           <div>
-            <img id="shoutout-img" alt="Margot's Mugshot" src={shoutout} />
+            <img className="headshot" alt="Margot's Mugshot" src={shoutout} />
           </div>
           <div>
             <h4>{data.shoutout.name}</h4>

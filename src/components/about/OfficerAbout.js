@@ -8,7 +8,7 @@ export default function OfficerAbout(props) {
       <h2>{position}</h2>
       <div className="d-flex align-items-start">
         <div>
-          <img alt={name} src={photo} />
+          <img className="headshot" alt={name} src={photo} />
         </div>
         <div>
           <h3>{name}</h3>
