@@ -32,11 +32,6 @@ export default function HomePage() {
           </div>
         </div>
       </Container> */}
-      <Container className="background-secondary home-container-vertical home-container horizontal">
-        <h2>Connect With Us!</h2>
-        <p>Email: <a href="tbp@uw.edu">tbp@uw.edu</a></p>
-        <p>Discord: <a href="https://discord.gg/HG47D5J6Xu">Discord Invite</a> </p>
-      </Container>
     </Container>
   )
 
